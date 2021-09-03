@@ -1,7 +1,8 @@
-#      My Policy Is           [  Nothing Will Work Unless You Do ]
+  
 
 
-<h1>Hello World! I'm Chandhan Madapakula</h1> 
+<h1 align="center">Hello World! I'm Chandhan Madapakula</h1> 
+<h4 align="center">  [  Nothing Will Work Unless You Do ] </h4>
 
  <br>
 <p align="center"> <img src="https://www.straightnewsonline.com/wp-content/uploads/2020/05/depositphotos_65076917-stock-photo-hacker-and-terrorism-fight.jpg" height="400px" width="8000px"></p>
