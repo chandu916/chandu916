@@ -1,4 +1,4 @@
-#      My Polocy Is           [  Nothing Will Work Unless You Do ]
+#      My Policy Is           [  Nothing Will Work Unless You Do ]
 
 
 <h1>Hello World! I'm Chandhan Madapakula</h1> 
