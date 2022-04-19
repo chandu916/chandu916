@@ -23,7 +23,8 @@
 <br/>
 
 ## Get In Touch :<br>
-<a href="https://www.linkedin.com/in/guru-sai-chandhan-m-3a5820205/"> <img src="https://freepngimg.com/thumb/linkedin/4-2-linkedin-png-pic-thumb.png" width="30"></a> <a href="https://github.com/chandu916"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzzWD7NJzihzWES4l0G00aUOMEqi0kGQC2W9_XoR_p2MLROuavttls3zBEWUrVagE1pXA&usqp=CAU" width="30"></a>  <a href="https://www.facebook.com/chandhan.chandu.5811"><img src="https://marianmissionaries.org/wp-content/uploads/2020/04/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" width="30"></a>  <a href="mailto:cchandhan021@gmail.com" width="30"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/1280px-Logo_Gmail_%282015-2020%29.svg.png" width="30"></a>
+<a href="https://www.linkedin.com/in/guru-sai-chandhan-m-3a5820205/"> <img src="https://freepngimg.com/thumb/linkedin/4-2-linkedin-png-pic-thumb.png" width="30"></a>   
+<a href="https://www.facebook.com/chandhan.chandu.5811"><img src="https://marianmissionaries.org/wp-content/uploads/2020/04/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" width="30"></a>  <a href="mailto:cchandhan021@gmail.com" width="30"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/1280px-Logo_Gmail_%282015-2020%29.svg.png" width="30"></a>
 <br>
 
  <a href="https://github.com/chandu916">
