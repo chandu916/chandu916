@@ -12,7 +12,7 @@
 <br>
 ## ⚡ Technologies and Tools <br>
 
-<div class="MuiButtonBase-root-1042 MuiChip-root-1080 home-avartar click_homefind_filter chip-lang MuiChip-clickable-1084" tabindex="0" role="button" data-text="python" style="margin-right: 8px;"><div class="MuiAvatar-root-1109 MuiAvatar-circular-1112 MuiChip-avatar-1093"><img alt="Python" src="https://kandi.openweaver.com/img/python.svg" class="MuiAvatar-img-1115"></div><span class="MuiChip-label-1101">Python</span><span class="MuiTouchRipple-root-1043"></span></div>
+<img alt="Python" src="https://kandi.openweaver.com/img/python.svg" >
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
