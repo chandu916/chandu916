@@ -12,10 +12,10 @@
 <br>
 ## ⚡ Technologies and Tools <br>
 
-<img alt="Python" src="https://kandi.openweaver.com/img/python.svg" >
-<img alt="JavaScript" src="https://kandi.openweaver.com/img/javascript.svg">
-<img alt="Java" src="https://kandi.openweaver.com/img/java.svg">
-<img alt="PHP" src="https://kandi.openweaver.com/img/php-logo.svg">
+<img alt="Python" src="https://kandi.openweaver.com/img/python.svg" style="max-width: 20%;max-height: 20%;display: inline-block;" >
+<img alt="JavaScript" src="https://kandi.openweaver.com/img/javascript.svg" style="max-width: 20%;max-height: 20%;display: inline-block;">
+<img alt="Java" src="https://kandi.openweaver.com/img/java.svg" style="max-width: 20%;max-height: 20%;display: inline-block;">
+<img alt="PHP" src="https://kandi.openweaver.com/img/php-logo.svg" style="max-width: 20%;max-height: 20%;display: inline-block;">
 
 ## Get In Touch :<br>
 <a href="https://www.linkedin.com/in/guru-sai-chandhan-m-3a5820205/"> <img src="https://freepngimg.com/thumb/linkedin/4-2-linkedin-png-pic-thumb.png" width="30"></a>   
