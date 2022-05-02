@@ -13,15 +13,9 @@
 ## ⚡ Technologies and Tools <br>
 
 <img alt="Python" src="https://kandi.openweaver.com/img/python.svg" >
-[Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-[C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-[Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-[MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<br/>
+<img alt="JavaScript" src="https://kandi.openweaver.com/img/javascript.svg">
+<img alt="Java" src="https://kandi.openweaver.com/img/java.svg">
+<img alt="PHP" src="https://kandi.openweaver.com/img/php-logo.svg">
 
 ## Get In Touch :<br>
 <a href="https://www.linkedin.com/in/guru-sai-chandhan-m-3a5820205/"> <img src="https://freepngimg.com/thumb/linkedin/4-2-linkedin-png-pic-thumb.png" width="30"></a>   
