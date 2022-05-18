@@ -2,13 +2,15 @@
 
 
 <h1 align="center">Hello World! I'm Chandhan </h1> 
-<h4 align="center">  [  Nothing Will Work Unless You Do ] </h4>
+<h4 align="center">  [A WEB DESIGNER || ETHICAL HACKING ENTUSIAST] </h4>
 
  <br>
 
 ## 🚀 About Me <br>
 
-🎓 I am Guru Sai Chandhan M, currently pursuing my bachelor's degree majoring in computer science specialisation in [cloud technology & information security](https://set.jainuniversity.ac.in/academics/computer-science-engineering/btech-computer-technology) from [Jain University](https://www.jainuniversity.ac.in/)
+🎓 I am Chandhan M, currently pursuing my bachelor's degree majoring in computer science specialisation in [cloud technology & information security](https://set.jainuniversity.ac.in/academics/computer-science-engineering/btech-computer-technology) from [Jain University](https://www.jainuniversity.ac.in/)
+
+
 <br>
 ## ⚡ Technologies and Tools <br>
 
