@@ -8,7 +8,7 @@
 
 ## 🚀 About Me <br>
 
-🎓 I am Chandhan M, currently pursuing my bachelor's degree majoring in computer science specialisation in [cloud technology & information security](https://set.jainuniversity.ac.in/academics/computer-science-engineering/btech-computer-technology) from [Jain University](https://www.jainuniversity.ac.in/)
+🎓 Hello there! I'm Chandhan Madapakula, a computer science and engineering graduate with a B.Tech. degree from [Jain University](https://www.jainuniversity.ac.in/). My specialization lies in [cloud technology & information security](https://set.jainuniversity.ac.in/academics/computer-science-engineering/btech-computer-technology). I'm deeply passionate about the fascinating world of cyber security, and I've honed my skills in web development as well. With a strong commitment to protecting digital assets and creating engaging web experiences, I strive to contribute to the advancement of technology. Let's connect on GitHub and LinkedIn to explore my journey and discuss exciting opportunities in the field.
 
 
 <br>
