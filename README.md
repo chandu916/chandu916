@@ -1,4 +1,4 @@
-  
+<img src="/DavidsDvm/DavidsDvm/raw/main/assets/profile_presentation.gif" alt="DavidsDvm Profile GIF" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
 
 
 <h1 align="center"> Hello World! </h1> 
