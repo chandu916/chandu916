@@ -1,29 +1,27 @@
-<img src="/DavidsDvm/DavidsDvm/raw/main/assets/profile_presentation.gif" alt="DavidsDvm Profile GIF" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
+# 💫 About Me:
+Hello World!<br>[A WEB DESIGNER || ETHICAL HACKING ENTHUSIAST]<br>
 
 
-<h1 align="center"> Hello World! </h1> 
-<h4 align="center">  [A WEB DESIGNER || ETHICAL HACKING ENTUSIAST] </h4>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandhan-profile/ ) 
 
- <br>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chandu916&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chandu916&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandu916&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🚀 About Me <br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chandu916&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-🎓 Hello there! I'm Chandhan Madapakula, a computer science and engineering graduate with a B.Tech. degree from [Jain University](https://www.jainuniversity.ac.in/). My specialization lies in [cloud technology & information security](https://set.jainuniversity.ac.in/academics/computer-science-engineering/btech-computer-technology). I'm deeply passionate about the fascinating world of cyber security, and I've honed my skills in web development as well. With a strong commitment to protecting digital assets and creating engaging web experiences, I strive to contribute to the advancement of technology. Let's connect on GitHub and LinkedIn to explore my journey and discuss exciting opportunities in the field.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chandu916&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<br>
-## ⚡ Technologies and Tools <br>
+---
+[![](https://visitcount.itsvg.in/api?id=chandu916&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<img alt="Python" src="https://kandi.openweaver.com/img/python.svg"> <img alt="JavaScript" src="https://kandi.openweaver.com/img/javascript.svg" > <img alt="Java" src="https://kandi.openweaver.com/img/java.svg" > <img alt="PHP" src="https://kandi.openweaver.com/img/php-logo.svg">
-
-
-
-
-## Get In Touch :<br>
-<a href="https://www.linkedin.com/in/guru-sai-chandhan-m-3a5820205/"> <img src="https://freepngimg.com/thumb/linkedin/4-2-linkedin-png-pic-thumb.png" width="30"></a><a href="https://www.facebook.com/chandhan.chandu.5811"><img src="https://marianmissionaries.org/wp-content/uploads/2020/04/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" width="30"></a>  <a href="mailto:cchandhan021@gmail.com" width="30"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/1280px-Logo_Gmail_%282015-2020%29.svg.png" width="30"></a>
-<a href="https://github.com/chandu916"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandu916&show_icons=true&include_all_commits=true&theme=material-palenight" alt="chandu's github stats" /> </a>
-</br>
-</br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=chandu.chandu916)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
