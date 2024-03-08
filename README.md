@@ -52,20 +52,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="snake.yml" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/316vmsmxwtdsydqbhggxpgsprlbu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316vmsmxwtdsydqbhggxpgsprlbu&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chandu916.chandu916&"  />
 
 ###
