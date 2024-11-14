@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋 World!<br> My name is Chandhan || Web Developer || Cyber Security Enthusiast/h2>
+<h2 align="center">Hello 👋 World!<br> My name is Chandhan || Web Developer || Cyber Security Enthusiast</h2>
 
 ### 
 
