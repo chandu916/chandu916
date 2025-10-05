@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/1_c_h _a_n_d_u_7?igsh=  eHB1NnJhbzUwZ2o0" target="_blank">
+  <a href="https://www.instagram.com/1_c_h_a_n_d_u_7?igsh=eHB1NnJhbzUwZ2o0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="28" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="28" alt="discord logo"  />
